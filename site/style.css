@@ -1,4 +1,4 @@
-body{font-family: Constantia;
+body{font-family: "Courier New", Courier, serif;
     background-color: #DBDFDF;
     color: #1F1F1F}
 
@@ -12,3 +12,5 @@ table{width:100%;
 th{width: 25%}
     
 a{color: inherit}
+
+h1{font-size: 56px}
